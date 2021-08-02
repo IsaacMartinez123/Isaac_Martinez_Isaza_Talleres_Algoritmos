@@ -1,0 +1,15 @@
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.exe
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.deps.json
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.runtimeconfig.json
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.runtimeconfig.dev.json
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.dll
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\ref\Ejercicio_17.dll
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\bin\Debug\net5.0\Ejercicio_17.pdb
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.dll
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\ref\Ejercicio_17.dll
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.pdb
+C:\Users\Isaac\source\repos\Ejercicio_17\Ejercicio_17\obj\Debug\net5.0\Ejercicio_17.genruntimeconfig.cache

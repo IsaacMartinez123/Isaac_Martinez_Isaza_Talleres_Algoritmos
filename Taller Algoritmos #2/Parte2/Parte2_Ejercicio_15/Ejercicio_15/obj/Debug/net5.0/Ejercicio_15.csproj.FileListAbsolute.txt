@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.exe
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.deps.json
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.runtimeconfig.json
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.dll
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\net5.0\ref\Ejercicio_15.dll
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\bin\Debug\net5.0\Ejercicio_15.pdb
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.dll
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\ref\Ejercicio_15.dll
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.pdb
+C:\Users\sebas\source\repos\Ejercicio_15\Ejercicio_15\obj\Debug\net5.0\Ejercicio_15.genruntimeconfig.cache

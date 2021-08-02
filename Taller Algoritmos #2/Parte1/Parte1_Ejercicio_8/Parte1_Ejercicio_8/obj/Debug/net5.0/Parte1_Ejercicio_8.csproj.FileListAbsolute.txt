@@ -1,0 +1,16 @@
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\bin\Debug\net5.0\Parte1_Ejercicio_8.exe
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\bin\Debug\net5.0\Parte1_Ejercicio_8.deps.json
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\bin\Debug\net5.0\Parte1_Ejercicio_8.runtimeconfig.json
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\bin\Debug\net5.0\Parte1_Ejercicio_8.runtimeconfig.dev.json
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\bin\Debug\net5.0\Parte1_Ejercicio_8.dll
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\bin\Debug\net5.0\ref\Parte1_Ejercicio_8.dll
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\bin\Debug\net5.0\Parte1_Ejercicio_8.pdb
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\Parte1_Ejercicio_8.csproj.AssemblyReference.cache
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\Parte1_Ejercicio_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\Parte1_Ejercicio_8.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\Parte1_Ejercicio_8.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\Parte1_Ejercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\Parte1_Ejercicio_8.dll
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\ref\Parte1_Ejercicio_8.dll
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\Parte1_Ejercicio_8.pdb
+C:\Users\Isaac\source\repos\Parte1_Ejercicio_8\Parte1_Ejercicio_8\obj\Debug\net5.0\Parte1_Ejercicio_8.genruntimeconfig.cache

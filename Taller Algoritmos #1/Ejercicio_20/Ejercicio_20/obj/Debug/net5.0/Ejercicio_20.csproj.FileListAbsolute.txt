@@ -1,0 +1,16 @@
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\net5.0\Ejercicio_20.exe
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\net5.0\Ejercicio_20.deps.json
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\net5.0\Ejercicio_20.runtimeconfig.json
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\net5.0\Ejercicio_20.runtimeconfig.dev.json
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\net5.0\Ejercicio_20.dll
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\net5.0\ref\Ejercicio_20.dll
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\bin\Debug\net5.0\Ejercicio_20.pdb
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\Ejercicio_20.csproj.AssemblyReference.cache
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\Ejercicio_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\Ejercicio_20.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\Ejercicio_20.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\Ejercicio_20.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\Ejercicio_20.dll
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\ref\Ejercicio_20.dll
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\Ejercicio_20.pdb
+C:\Users\Isaac\source\repos\Ejercicio_20\Ejercicio_20\obj\Debug\net5.0\Ejercicio_20.genruntimeconfig.cache
